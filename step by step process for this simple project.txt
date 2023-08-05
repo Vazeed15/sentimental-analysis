@@ -4,6 +4,9 @@ Basic sentimental analysis project
 *Python Modules used-flask,nltk,textblob
 *Download punkt-The punkt resource provides pre-trained models and data for these language-specific tasks. NLTK uses these models to perform tokenization, sentence splitting, and word segmentation accurately for various languages
 *use Html and CSS for front-end (user-Interface).
+|----templates-->index.html
+|----static-->styles.css
+|----app.py
 *After Arranging the all resoures run the app.py
 *After app.py run you will get -http://127.0.0.1:5000
 *Paste this like in any browser.
